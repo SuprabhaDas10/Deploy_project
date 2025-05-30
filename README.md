@@ -31,5 +31,5 @@ A smart Streamlit-based web application that summarizes online news articles or 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ai-news-summarizer.git
-cd ai-news-summarizer
+git clone https://github.com/your-username/News-summarizer.git
+cd News-summarizer
